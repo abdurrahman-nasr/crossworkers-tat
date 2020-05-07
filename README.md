@@ -102,3 +102,17 @@ GNU Affero General Public License for more details.
 
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see (http://www.gnu.org/licenses/).
+
+
+### How to Compile
+
+- you should have maven installed and in the OS path
+- checkout the project
+- navigate to directory *./jdsurvey-all*
+- open CLI and execute
+
+`$ mvn clean package`
+
+
+
+
